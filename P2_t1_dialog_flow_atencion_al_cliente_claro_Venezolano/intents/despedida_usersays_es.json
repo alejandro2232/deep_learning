@@ -1,0 +1,43 @@
+[
+  {
+    "id": "e95e50ac-2ce8-4a02-8c3d-5de96af54490",
+    "data": [
+      {
+        "text": "Hasta luego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "369efa77-9633-4906-ba11-4fcbb62c5f2b",
+    "data": [
+      {
+        "text": "chao",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7dceb5d8-ac3f-4060-9f2f-008e93e0663f",
+    "data": [
+      {
+        "text": "Adios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

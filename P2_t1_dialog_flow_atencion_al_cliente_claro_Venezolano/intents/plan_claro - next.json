@@ -1,0 +1,43 @@
+{
+  "id": "0ca336c1-57ac-4c27-872b-5814aa8a9f53",
+  "parentId": "7fa309eb-8ae5-4308-a2f3-993ae27b9990",
+  "rootParentId": "7fa309eb-8ae5-4308-a2f3-993ae27b9990",
+  "name": "plan_claro - next",
+  "auto": true,
+  "contexts": [
+    "plan_claro-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "plan_claro.plan_claro-next",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

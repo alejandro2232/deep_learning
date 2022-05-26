@@ -1,0 +1,46 @@
+{
+  "id": "f7d3d9be-9916-414d-9651-33de5d98e450",
+  "parentId": "eb32cb48-724e-4ab4-8b11-f34965c57408",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - primera - opcion - no",
+  "auto": true,
+  "contexts": [
+    "saludo-primera-opcion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom.saludo-primera-opcion-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Gracias por preferirnos, este es el fin de atención al cliente"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

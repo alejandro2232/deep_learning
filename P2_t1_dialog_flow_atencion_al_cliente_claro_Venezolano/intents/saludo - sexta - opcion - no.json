@@ -1,0 +1,46 @@
+{
+  "id": "79d28b73-d27f-467f-8339-b12db98c7434",
+  "parentId": "2a344080-42f8-4f85-aed7-f728713c093a",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - sexta - opcion - no",
+  "auto": true,
+  "contexts": [
+    "saludo-sexta-opcion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom-2.saludo-sexta-opcion-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Gracias por preferirnos, este es el fin de atención al cliente"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "22b1adbe-aa77-4d66-a317-ca9b446ffeca",
+  "parentId": "0cebf030-3491-4a2c-ae79-46f9503313a4",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - cuarta - opcion - no",
+  "auto": true,
+  "contexts": [
+    "saludo-yes-custom-3-followup",
+    "saludo-cuarta-opcion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom-3.saludo-cuarta-opcion-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Te pondremos en contacto con un supervisor para proceder con el acuerdo de compra. Fin del atención al cliente"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

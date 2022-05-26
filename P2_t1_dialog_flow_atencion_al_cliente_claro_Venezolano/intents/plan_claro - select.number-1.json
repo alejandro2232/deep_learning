@@ -1,0 +1,62 @@
+{
+  "id": "ba3d0025-7474-4702-a697-e1e189977805",
+  "parentId": "7fa309eb-8ae5-4308-a2f3-993ae27b9990",
+  "rootParentId": "7fa309eb-8ae5-4308-a2f3-993ae27b9990",
+  "name": "plan_claro - select.number-1",
+  "auto": true,
+  "contexts": [
+    "plan_claro-followup",
+    "plan_claro-selectNumber-1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "plan_claro.plan_claro-selectnumber",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b65284bf-6bdd-4dc4-8f92-bf716dc81ffd",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El plan de internet para tu hogar ofrece múltiples planes, entre ellos: \n1. Planes familiares, megas disponibles para múltiples dispositivos + 10 gb de regalo\n2. Plan estudiantil, 20 gb de disponibilidad\n3. Plan estándar, 30 gb de disponibilidad + 20% de velocidad de internet asegurado"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

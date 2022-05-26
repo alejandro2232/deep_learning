@@ -1,0 +1,80 @@
+{
+  "id": "eb32cb48-724e-4ab4-8b11-f34965c57408",
+  "parentId": "047e4f6d-4e3b-4b60-8d94-4b09f5748b93",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - primera - opcion",
+  "auto": true,
+  "contexts": [
+    "saludo-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "saludo-primera-opcion-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1edc46bd-049a-40f8-92ec-b4d9e4348751",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "83f6e7c6-8759-405c-8a43-515ea9792157",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El plan de internet para tu hogar ofrece múltiples planes, entre ellos: \n1. Planes familiares, megas disponibles para múltiples dispositivos + 10 gb de regalo\n2. Plan estudiantil, 20 gb de disponibilidad\n3. Plan estándar, 30 gb de disponibilidad + 20% de velocidad de internet asegurado\n\nDigita, el numero o plan de datos que te haya llamado la atención junto con la palabra \"comprar\" y te conectaremos con un supervisor para proceder con el acuerdo de compra, en caso de que no le interesen los planes digite \"no\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

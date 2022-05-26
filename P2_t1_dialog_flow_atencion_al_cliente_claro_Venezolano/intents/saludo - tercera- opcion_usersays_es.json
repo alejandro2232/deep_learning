@@ -1,0 +1,114 @@
+[
+  {
+    "id": "0e940b3a-52cd-4c18-9075-f5358d387510",
+    "data": [
+      {
+        "text": "deseo el plan ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cc14b403-b7f7-47eb-96f4-53061484699c",
+    "data": [
+      {
+        "text": "quiero el plan ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e6e8c0e3-e464-4696-a904-0a64593bb96b",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "tercero",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7acf264d-73ba-487d-9334-75af566f93f9",
+    "data": [
+      {
+        "text": "tercer",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "85ee6cea-7c56-4280-a0a8-77deb8097032",
+    "data": [
+      {
+        "text": "Plan de ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " para tu hogar y datos móviles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "59eae4e9-5d20-4b12-ab7b-e10c482bb1ef",
+    "data": [
+      {
+        "text": "Plan 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

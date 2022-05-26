@@ -1,0 +1,59 @@
+{
+  "id": "7fa309eb-8ae5-4308-a2f3-993ae27b9990",
+  "name": "plan_claro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "plan_claro-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "plan_claro-selectNumber-1",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2315a321-83ba-477f-8f89-63f5c8d147a0",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Claro mi patrón, ofrecemos todo tipos de servicios:\n\n1. Plan de internet para tu hogar\n2. Plan de televisión por cable\n3. Plan de internet para tu hogar y datos móviles\n4. Plan de datos para móviles\n5. Plan tripley\n\nIngresa el numero o la opción que mas te haya llamado la atención\n\nTambién tenemos la opción de ventas de celulares envíos a todo Colombia, en caso de que eso te llame la atención esta opción digita: \n6. Compra celular"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

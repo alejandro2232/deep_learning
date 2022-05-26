@@ -1,0 +1,116 @@
+[
+  {
+    "id": "63119295-ac92-4f97-a8eb-2fc39092dbf9",
+    "data": [
+      {
+        "text": "servicio ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "34e4550a-3dbd-4423-b80d-d38ce956118f",
+    "data": [
+      {
+        "text": "plan ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7a3ce397-023d-4c4f-aa0b-1e6ce9540417",
+    "data": [
+      {
+        "text": "opcion ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a20ffdec-7a69-4b9a-969b-4e646b237f2e",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "16a92520-9220-41eb-9b76-65951080d0c8",
+    "data": [
+      {
+        "text": "Plan hogar ",
+        "userDefined": false
+      },
+      {
+        "text": "claro",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6951775f-2597-44ab-ad80-187d7f54d5c8",
+    "data": [
+      {
+        "text": "Plan de ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " para tu hogar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

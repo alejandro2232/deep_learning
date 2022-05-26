@@ -1,0 +1,28 @@
+[
+  {
+    "id": "af37953c-1523-4194-bc15-6176a4b626d5",
+    "data": [
+      {
+        "text": "Me podrías ayudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "383c45df-0692-4656-aa2f-2e270b4f4f2d",
+    "data": [
+      {
+        "text": "Necesito ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  }
+]

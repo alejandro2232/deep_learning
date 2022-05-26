@@ -1,0 +1,80 @@
+{
+  "id": "2a344080-42f8-4f85-aed7-f728713c093a",
+  "parentId": "047e4f6d-4e3b-4b60-8d94-4b09f5748b93",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - sexta - opcion",
+  "auto": true,
+  "contexts": [
+    "saludo-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom-2",
+      "affectedContexts": [
+        {
+          "name": "saludo-sexta-opcion-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "18d9ed63-cf1b-421d-b4b4-e3ec2d3b422a",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a14c48dd-f30e-497e-8273-95853a8b977a",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Compra celular ofrece diversos planes, entre ellos:\n1. Celulares de todas las marcas, pago a cuotas, de hasta 400 pagos mensuales con interés del 12%, esto con el fin de ayudar a nuestros panas venezolanos a tener su propio celular(No es hate)\n2. Celulares de todas las marcas, único pago y con envió gratis a todo Colombia\n3. Celulares de todas las marcas, pago a cuotas de de hasta 30 pagos mensuales con interés del 10%\n\n\nDigita, el numero o plan de datos que te haya llamado la atención junto con la palabra \"comprar\" y te conectaremos con un supervisor para proceder con el acuerdo de compra, en caso de que no le interesen los planes digite \"no\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

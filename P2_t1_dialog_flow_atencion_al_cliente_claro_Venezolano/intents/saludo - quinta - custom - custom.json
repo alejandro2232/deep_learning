@@ -1,0 +1,61 @@
+{
+  "id": "0a5b8439-c3b8-43e9-b917-b98de1e7305d",
+  "parentId": "97a66980-388e-42a6-9afe-123acc4d94cf",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - quinta - custom - custom",
+  "auto": true,
+  "contexts": [
+    "saludo-quinta-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom.saludo-quinta-custom-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "700ec582-f1e8-4385-9f72-61f9cda9163f",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Te pondremos en contacto con un supervisor para proceder con el acuerdo de compra. Fin del atención al cliente"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

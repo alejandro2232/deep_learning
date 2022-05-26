@@ -1,0 +1,112 @@
+[
+  {
+    "id": "aadeb1a7-89bb-4add-bbdf-cf9afc4ce38c",
+    "data": [
+      {
+        "text": "plan ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "96be47c4-4dc2-4046-9faf-faf119e0b526",
+    "data": [
+      {
+        "text": "la opcion ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7b2afb5d-75e4-4146-a442-77228eb0f649",
+    "data": [
+      {
+        "text": "la ",
+        "userDefined": false
+      },
+      {
+        "text": "sexta",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "acaafc37-d5d8-4364-8cc9-98d9aefc5ddd",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4fa625be-faa3-46fa-ac5a-a032a2bafb66",
+    "data": [
+      {
+        "text": "Sexta",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " opcion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a0f98112-8e52-48e9-9800-46835bdae0ef",
+    "data": [
+      {
+        "text": "Compra ",
+        "userDefined": false
+      },
+      {
+        "text": "celular",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

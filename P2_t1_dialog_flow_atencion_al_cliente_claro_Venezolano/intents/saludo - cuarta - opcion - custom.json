@@ -1,0 +1,62 @@
+{
+  "id": "cf2ce65d-c2ec-47c0-845e-b140a94ce366",
+  "parentId": "0cebf030-3491-4a2c-ae79-46f9503313a4",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - cuarta - opcion - custom",
+  "auto": true,
+  "contexts": [
+    "saludo-yes-custom-3-followup",
+    "saludo-cuarta-opcion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom-3.saludo-cuarta-opcion-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8b404108-5e85-42bf-811a-08045f135f2a",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Te pondremos en contacto con un supervisor para proceder con el acuerdo de compra. Fin del atención al cliente"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

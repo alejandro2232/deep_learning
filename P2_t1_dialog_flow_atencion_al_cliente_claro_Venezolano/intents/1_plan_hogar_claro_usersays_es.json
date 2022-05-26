@@ -1,0 +1,93 @@
+[
+  {
+    "id": "abf0a7c9-a336-4d03-b43e-5386adc30a91",
+    "data": [
+      {
+        "text": "plan ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6d5dd66f-e76f-4e86-8abe-98c105d90c25",
+    "data": [
+      {
+        "text": "opcion 1",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d40636cd-bedd-4343-a5ac-d700444f056c",
+    "data": [
+      {
+        "text": "Plan de ",
+        "userDefined": false
+      },
+      {
+        "text": "internet",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " para tu hogar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "407abe05-ddfe-434a-ba8b-ea594fa76caf",
+    "data": [
+      {
+        "text": "Plan hogar ",
+        "userDefined": false
+      },
+      {
+        "text": "claro",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "28beaa6b-5d0f-49be-82bd-683eaf77c4f2",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

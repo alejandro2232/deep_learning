@@ -1,0 +1,76 @@
+{
+  "id": "00249bd4-da3e-4920-a299-1b5aea655880",
+  "parentId": "7fa309eb-8ae5-4308-a2f3-993ae27b9990",
+  "rootParentId": "7fa309eb-8ae5-4308-a2f3-993ae27b9990",
+  "name": "1_plan_hogar_claro",
+  "auto": true,
+  "contexts": [
+    "plan_claro-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "plan_claro.plan_claro-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "752d4026-c2e1-4fa1-a2fa-bafd1f849db9",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "12eb0aeb-df4e-4750-a9d6-51b3b96518f8",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "El plan de internet para tu hogar ofrece múltiples planes, entre ellos: \n1. Planes familiares, megas disponibles para múltiples dispositivos + 10 gb de regalo\n2. Plan estudiantil, 20 gb de disponibilidad\n3. Plan estándar, 30 gb de disponibilidad + 20% de velocidad de internet asegurado"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

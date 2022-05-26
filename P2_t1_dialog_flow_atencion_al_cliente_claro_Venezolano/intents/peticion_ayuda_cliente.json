@@ -1,0 +1,49 @@
+{
+  "id": "4dd7ee3e-05c3-41ba-bd8a-a1a72191136a",
+  "name": "peticion_ayuda_cliente",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Claro huevon, ¿Qué necesitas?",
+            "Sisas mi pez, permíteme ayudarte",
+            "Obvio mi rey, para eso estamos, ¿cual es tu problema?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "speech": [
+            "Claro huevon, ¿Qué necesitas?",
+            "Sisas mi pez, permíteme ayudarte",
+            "Obvio mi rey, para eso estamos, ¿cual es tu problema?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

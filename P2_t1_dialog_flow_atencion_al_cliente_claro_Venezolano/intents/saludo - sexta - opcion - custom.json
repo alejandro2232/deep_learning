@@ -1,0 +1,61 @@
+{
+  "id": "62a9a012-aa83-44c9-8a78-d41893cd3e0d",
+  "parentId": "2a344080-42f8-4f85-aed7-f728713c093a",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - sexta - opcion - custom",
+  "auto": true,
+  "contexts": [
+    "saludo-sexta-opcion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom-2.saludo-sexta-opcion-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f0cd4822-6e67-483c-a580-65420f0c3404",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Te pondremos en contacto con un supervisor para proceder con el acuerdo de compra. Fin del atención al cliente"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

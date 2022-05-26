@@ -1,0 +1,80 @@
+{
+  "id": "2a0d2282-1d14-4fe7-ae55-3e14d6a5655f",
+  "parentId": "047e4f6d-4e3b-4b60-8d94-4b09f5748b93",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - tercera- opcion",
+  "auto": true,
+  "contexts": [
+    "saludo-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "saludo-tercera-opcion-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "675f954e-8eb7-448f-9112-fd3062dc8b95",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "28e53dde-a60e-4e05-be7f-e01bdfee0b81",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Plan de internet para tu hogar y datos móviles te ofrece múltiples planes, entre ellos:\n1. Plan de 50 gb para tu hogar y 5 gb de datos disponibles para 4 dispositivos móviles \n2. Plan de 100 gb para tu hogar  y 10 gb de datos disponibles para 6 dispositivos móviles\n3. Plan estándar, de 40 gb para tu hogar y 5 gb de datos disponible para 1 dispositivo móvil\n\nDigita, el numero o plan de datos que te haya llamado la atención junto con la palabra \"comprar\" y te conectaremos con un supervisor para proceder con el acuerdo de compra, en caso de que no le interesen los planes digite \"no\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

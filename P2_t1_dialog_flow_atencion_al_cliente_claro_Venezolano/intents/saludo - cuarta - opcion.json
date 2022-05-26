@@ -1,0 +1,70 @@
+{
+  "id": "0cebf030-3491-4a2c-ae79-46f9503313a4",
+  "parentId": "047e4f6d-4e3b-4b60-8d94-4b09f5748b93",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - cuarta - opcion",
+  "auto": true,
+  "contexts": [
+    "saludo-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom-3",
+      "affectedContexts": [
+        {
+          "name": "saludo-yes-custom-3-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "saludo-cuarta-opcion-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e1d390cc-a7bb-437e-9ffd-c4d94d618bdb",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Plan de datos para móviles ofrece múltiples planes, entre ellos:\n1. Minutos y mensajes ilimitados\n2. Plan de 10 gb al mes y disponibilidad de 500 minutos de llamada\n3. Plan estándar 5 gb al mes\n\nDigita, el numero o plan de datos que te haya llamado la atención junto con la palabra \"comprar\" y te conectaremos con un supervisor para proceder con el acuerdo de compra, en caso de que no le interesen los planes digite \"no\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "f6d39ce9-e614-40c8-b034-3f3fbb68159f",
+    "data": [
+      {
+        "text": "Hola",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7b74291a-6ac0-486c-804c-15b60c13c826",
+    "data": [
+      {
+        "text": "Buenos dias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c33f53ec-961b-43a5-be9e-ba39768d0cf7",
+    "data": [
+      {
+        "text": "Buenas tardes",
+        "meta": "@sys.music-artist",
+        "alias": "music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "257091f3-41e4-4172-ae17-14cc2ccaa129",
+    "data": [
+      {
+        "text": "Buenas",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

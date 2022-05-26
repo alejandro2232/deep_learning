@@ -1,0 +1,66 @@
+{
+  "id": "97a66980-388e-42a6-9afe-123acc4d94cf",
+  "parentId": "047e4f6d-4e3b-4b60-8d94-4b09f5748b93",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - quinta - custom",
+  "auto": true,
+  "contexts": [
+    "saludo-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes.saludo-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "saludo-quinta-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "20a08a9b-74ee-416b-b48c-c6aadc5d580f",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Plan tripley ofrece un único servicio premium, que es:\n1. Dependiendo a la cantidad de gb que desees se sacara el precio mensualmente, adicionalmente a eso sin importar las gb que hayas elegido se otorgara mas 50% de velocidad de internet\n\nDigita, el numero o plan de datos que te haya llamado la atención junto con la palabra \"comprar\" y te conectaremos con un supervisor para proceder con el acuerdo de compra, en caso de que no le interesen los planes digite \"no\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

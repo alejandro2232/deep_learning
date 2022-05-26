@@ -1,0 +1,51 @@
+{
+  "id": "047e4f6d-4e3b-4b60-8d94-4b09f5748b93",
+  "parentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "rootParentId": "97961167-b37d-44e6-8694-17e9e21edf8f",
+  "name": "saludo - yes",
+  "auto": true,
+  "contexts": [
+    "saludo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "saludo.saludo-yes",
+      "affectedContexts": [
+        {
+          "name": "saludo-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Claro mi patrón, ofrecemos todo tipos de servicios:\n\n1. Plan de internet para tu hogar\n2. Plan de televisión por cable\n3. Plan de internet para tu hogar y datos móviles\n4. Plan de datos para móviles\n5. Plan tripley\n\nIngresa el numero o la opción que mas te haya llamado la atención\n\nTambién tenemos la opción de ventas de celulares envíos a todo Colombia, en caso de que eso te llame la atención esta opción digita: \n6. Compra celular"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es-419",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

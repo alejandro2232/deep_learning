@@ -1,0 +1,332 @@
+[
+  {
+    "id": "39b483c7-8a94-476a-a0ce-0a9b9e244bcc",
+    "data": [
+      {
+        "text": "elijo el número ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "69986ee8-2bb8-4821-8f0b-593b001bf03b",
+    "data": [
+      {
+        "text": "elijo los números ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "d3840c20-f9b0-4f2b-9012-3c6cb642478f",
+    "data": [
+      {
+        "text": "selecciono el ",
+        "userDefined": false
+      },
+      {
+        "text": "primero",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "690c8ac4-96e4-4689-a911-2d2e28693eea",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "segundo",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "333822c5-d801-4ba4-9ac3-b06e01996ba1",
+    "data": [
+      {
+        "text": "ver ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "5b1c6b33-38a8-40b0-8ead-859be13aa8bd",
+    "data": [
+      {
+        "text": "elijo el ",
+        "userDefined": false
+      },
+      {
+        "text": "primero",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "segundo",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "290f2836-c967-4481-9623-f26df367026d",
+    "data": [
+      {
+        "text": "número ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "f4b1fdb9-e135-4329-acd1-3619cc0b506b",
+    "data": [
+      {
+        "text": "muéstrame el ",
+        "userDefined": false
+      },
+      {
+        "text": "segundo",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "f0517023-0037-4cba-8e02-300eccadb09c",
+    "data": [
+      {
+        "text": "el ",
+        "userDefined": false
+      },
+      {
+        "text": "primero",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " y el ",
+        "userDefined": false
+      },
+      {
+        "text": "segundo",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "82f5c24c-2a90-4552-ae5a-5704fcb3564d",
+    "data": [
+      {
+        "text": "elijo el número ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  }
+]

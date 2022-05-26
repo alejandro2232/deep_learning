@@ -1,0 +1,132 @@
+[
+  {
+    "id": "24749497-cd57-4fb9-b72e-80e59a529075",
+    "data": [
+      {
+        "text": "mostrar la página siguiente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "1aaff3b1-ad2f-4f1b-bfd0-43822a9acd82",
+    "data": [
+      {
+        "text": "mostrar el siguiente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "15d9595c-9def-408a-95b7-0abbc5fdc702",
+    "data": [
+      {
+        "text": "página siguiente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "d95e5467-2c93-4cdb-a8e8-12f4a8f20aaf",
+    "data": [
+      {
+        "text": "resultado siguiente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "ed9e2774-9307-4ccd-8584-5b5a4e4bf7c9",
+    "data": [
+      {
+        "text": "avanzar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "bf667333-f702-4554-9fa8-a04dd366a2de",
+    "data": [
+      {
+        "text": "siguiente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "561f26d5-b9a0-42ee-b15a-3112bad910b7",
+    "data": [
+      {
+        "text": "pasar al siguiente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "20587920-dad6-4df2-9638-9040f9746a38",
+    "data": [
+      {
+        "text": "consultar los resultados siguientes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "8f06c1dc-7d7c-435e-8a3d-c38779546d2b",
+    "data": [
+      {
+        "text": "mostrar los resultados siguientes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "cc95511d-455c-45d2-a5ad-f5f2c9214999",
+    "data": [
+      {
+        "text": "ir a la página siguiente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  }
+]

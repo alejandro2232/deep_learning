@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2cd2707e-109f-4963-a915-a5324b175faa",
+    "data": [
+      {
+        "text": "Ofrecen plan de datos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "53430668-d3c1-442d-9041-e243bf13866a",
+    "data": [
+      {
+        "text": "Que ",
+        "userDefined": false
+      },
+      {
+        "text": "servicios",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ofrecen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d42addcb-e356-4688-bdf7-c42ac6a1d1f9",
+    "data": [
+      {
+        "text": "Que planes ofrecen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

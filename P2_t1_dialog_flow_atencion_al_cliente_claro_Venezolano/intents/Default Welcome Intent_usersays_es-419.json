@@ -1,0 +1,67 @@
+[
+  {
+    "id": "431672dc-99eb-4bc4-a60b-1018c4563d99",
+    "data": [
+      {
+        "text": "buenas buenas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "a43fa324-eeda-4aec-9795-86285569c582",
+    "data": [
+      {
+        "text": "Que mas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "e26ab32c-2431-42fa-bb27-0b111cfb0867",
+    "data": [
+      {
+        "text": "Quiubo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "7a7b139e-3553-4fbb-947c-5d498698e441",
+    "data": [
+      {
+        "text": "saludos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  },
+  {
+    "id": "4266e44e-61f2-42af-8665-a3ad3263ec71",
+    "data": [
+      {
+        "text": "osea huevon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es-419",
+    "updated": 0
+  }
+]
